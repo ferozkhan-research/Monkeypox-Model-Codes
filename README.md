@@ -15,7 +15,8 @@ Contents:
 
 Software requirements:
 - MATLAB R2015
-Instructions:
+ 
+- Instructions:
 1. Run lscm_mpox.m for deterministic simulations with sigma_i=0.
 2. Run lscm_mpox.m for stochastic simulations when sigma_i is non zero .
 3. Run lscm_beta1_Ih.m for to see beta1 effect on Mpox dynamics for both deterministic and stochastic.
