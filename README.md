@@ -21,4 +21,5 @@ Software requirements:
 2. Run lscm_mpox.m for stochastic simulations when sigma_i is non zero .
 3. Run lscm_beta1_Ih.m to see beta1 effect on Mpox dynamics for both deterministic and stochastic (similarly for other parameters).
 4. Run sensitivity.m for sensitivity of parameters.
-4. lglnodes.m file must be saved in the same folder as a support file.
+5. Run MpoxRk4NN.m for Rk4 method vs Neural Network.
+6. lglnodes.m file must be saved in the same folder as a support file.
