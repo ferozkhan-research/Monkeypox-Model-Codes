@@ -1,10 +1,10 @@
 # Monkeypox-Model-Codes
-MATLAB codes for the stochastic TB transmission model and neural network simulations presented in the manuscript.
+MATLAB codes for the stochastic Mpox transmission model and neural network simulations presented in the manuscript.
 # Investigating the Deterministic and Stochastic Dynamics of Monkeypox: A Hybrid Numerical  Approach Using Spectral Method and Feedforward Neural Networks
 
 Authors: Feroz Khan, Coauthors
 
-This repository contains the MATLAB and Python codes used in the manuscript:
+This repository contains the MATLAB used in the manuscript:
 
 "Investigating the Deterministic and Stochastic Dynamics of Monkeypox: A Hybrid Numerical  Approach Using Spectral Method and Feedforward Neural Networks"
 
